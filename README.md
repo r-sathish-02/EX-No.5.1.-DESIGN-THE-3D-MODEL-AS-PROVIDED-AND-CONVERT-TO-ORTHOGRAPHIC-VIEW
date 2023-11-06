@@ -55,15 +55,6 @@ Switch to drawing mode from design mode
 
 
 
-### STEP-4:
- Use the extrude option to convert the 2D to 3D.
-
-### STEP-5:
-Switch to drawing mode from design mode 
-          
-### STEP-6:
-1. Select the base view and position the model to project from base view 
-2. Select the projected view to generate orthographic projections
 
 ## INPUT
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
